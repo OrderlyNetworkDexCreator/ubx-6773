@@ -1,6 +1,6 @@
 window.__RUNTIME_CONFIG__ = {
   "VITE_ORDERLY_BROKER_ID": "demo",
-  "VITE_ORDERLY_BROKER_NAME": "UbX",
+  "VITE_ORDERLY_BROKER_NAME": "Ubc",
   "VITE_DISABLE_MAINNET": "false",
   "VITE_DISABLE_TESTNET": "false",
   "VITE_ORDERLY_MAINNET_CHAINS": "1,56,900900900,42161,10,8453",
@@ -13,7 +13,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_DISABLE_EVM_WALLETS": "false",
   "VITE_DISABLE_SOLANA_WALLETS": "false",
   "VITE_WALLETCONNECT_PROJECT_ID": "",
-  "VITE_APP_NAME": "UbX",
+  "VITE_APP_NAME": "Ubc",
   "VITE_APP_DESCRIPTION": "UBX is a fast, secure, and low-fee decentralized exchange where users trade crypto directly, without middlemen.",
   "VITE_HAS_PRIMARY_LOGO": "true",
   "VITE_HAS_SECONDARY_LOGO": "true",
