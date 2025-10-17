@@ -17,7 +17,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_APP_DESCRIPTION": "UBC is a fast, secure, and low-fee decentralized exchange where users trade crypto directly, without middlemen.",
   "VITE_HAS_PRIMARY_LOGO": "true",
   "VITE_HAS_SECONDARY_LOGO": "true",
-  "VITE_ENABLED_MENUS": "Portfolio,Markets,Swap",
+  "VITE_ENABLED_MENUS": "Portfolio,Markets,Swap,Trading",
   "VITE_CUSTOM_MENUS": "",
   "VITE_ENABLE_CAMPAIGNS": "true",
   "VITE_TELEGRAM_URL": "https://t.me/ubcovenant",
@@ -31,7 +31,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_SEO_TWITTER_HANDLE": "",
   "VITE_SEO_THEME_COLOR": "#000000",
   "VITE_SEO_KEYWORDS": "UBC Exchange, UBC DEX, Decentralized Exchange, Crypto Trading Platform, DeFi Exchange, Blockchain Trading, Token Swap Platform, Secure Crypto Exchange, dex, orderly, secure, best dex, ubcdex, ubcovenant, defi, crypto, cryptocurrency, bitcoin, eth, btc",
-  "VITE_AVAILABLE_LANGUAGES": "",
+  "VITE_AVAILABLE_LANGUAGES": "en,zh,ja,es,ko,vi,de,fr,ru,id,tr,it,pt,uk,pl,nl",
   "VITE_USE_CUSTOM_PNL_POSTERS": "true",
   "VITE_CUSTOM_PNL_POSTER_COUNT": "1",
   "VITE_TRADING_VIEW_COLOR_CONFIG": ""
