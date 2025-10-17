@@ -17,7 +17,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_APP_DESCRIPTION": "UBC is a fast, secure, and low-fee decentralized exchange where users trade crypto directly, without middlemen.",
   "VITE_HAS_PRIMARY_LOGO": "true",
   "VITE_HAS_SECONDARY_LOGO": "true",
-  "VITE_ENABLED_MENUS": "Trading,Portfolio,Vaults,Markets,Rewards,Leaderboard",
+  "VITE_ENABLED_MENUS": "Trading,Portfolio,Vaults,Markets,Rewards,Swap",
   "VITE_CUSTOM_MENUS": "",
   "VITE_ENABLE_CAMPAIGNS": "true",
   "VITE_TELEGRAM_URL": "https://t.me/ubcovenant",
