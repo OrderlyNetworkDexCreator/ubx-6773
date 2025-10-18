@@ -1,6 +1,6 @@
 :root {
-  --oui-font-family: 'Manrope', sans-serif;
-  --oui-font-size-base: 16px;
+  --oui-font-family: 'Montserrat', sans-serif;
+  --oui-font-size-base: 15px;
 
   /* colors */
   --oui-color-primary: 255 255 255;
@@ -31,7 +31,7 @@
   --oui-color-warning-contrast: 255 255 255;
 
   --oui-color-fill: 0 0 0;
-  --oui-color-fill-active: 30 30 30;
+  --oui-color-fill-active: 255 255 0;
 
   --oui-color-base-1: 30 30 30;
   --oui-color-base-2: 25 25 25;
@@ -39,7 +39,7 @@
   --oui-color-base-4: 15 15 15;
   --oui-color-base-5: 10 10 10;
   --oui-color-base-6: 5 5 5;
-  --oui-color-base-7: 40 40 40;
+  --oui-color-base-7: 255 255 0;
   --oui-color-base-8: 0 0 0;
   --oui-color-base-9: 0 0 0;
   --oui-color-base-10: 0 0 0;
@@ -95,6 +95,6 @@
 }
 
 html, body {
-  font-family: 'Manrope', sans-serif !important;
-  font-size: 16px !important;
+  font-family: 'Montserrat', sans-serif !important;
+  font-size: 15px !important;
 }
