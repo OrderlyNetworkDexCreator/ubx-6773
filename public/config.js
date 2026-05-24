@@ -1,6 +1,6 @@
 window.__RUNTIME_CONFIG__ = {
   "VITE_ORDERLY_BROKER_ID": "demo",
-  "VITE_ORDERLY_BROKER_NAME": "Ubx",
+  "VITE_ORDERLY_BROKER_NAME": "Ubizm",
   "VITE_BROKER_EOA_ADDRESS": "0x47a850aab6d9600e8910ea4d6c3c216c6650a09a",
   "VITE_DISABLE_MAINNET": "false",
   "VITE_DISABLE_TESTNET": "true",
@@ -14,7 +14,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_DISABLE_EVM_WALLETS": "false",
   "VITE_DISABLE_SOLANA_WALLETS": "false",
   "VITE_WALLETCONNECT_PROJECT_ID": "a2edbb1f3d54a3a61c60b1a196ec8b8c",
-  "VITE_APP_NAME": "Ubx",
+  "VITE_APP_NAME": "Ubizm",
   "VITE_APP_DESCRIPTION": "Ubizm is a fast, secure, and low-fee decentralized exchange where users trade crypto directly, without middlemen.",
   "VITE_HAS_PRIMARY_LOGO": "true",
   "VITE_HAS_SECONDARY_LOGO": "true",
